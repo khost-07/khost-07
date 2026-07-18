@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity B.Tech student (IBM collab) @ HITS, Chennai | Building, breaking, and securing things</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+BLE+Recon+%7C+Threat+Analysis;IEEE+Author+%E2%80%94+Driver+Risk+Score+Fusion;Building+with+Team+OnlyVibecoders;Chasing+flags+in+CTFs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+Threat+Analysis;IEEE+Author+%E2%80%94+Driver+Risk+Score+Fusion;Building+with+Axivorm;Chasing+flags+in+CTFs" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,11 +16,10 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech in Cybersecurity (IBM collaboration) at **Hindustan Institute of Technology and Science (HITS)**, Chennai
-- 🔐 Currently interning in cybersecurity — BLE reconnaissance, threat analysis, and security reporting with Kali Linux
-- 📄 Author of an IEEE conference paper on an IoT-based vehicle safety system featuring a **Driver Risk Score Fusion (DRSF)** framework
-- 🏗️ Build hackathon and freelance projects with my team, **OnlyVibecoders**
+- 📄 Working on an IEEE conference paper on an IoT-based vehicle safety system featuring a **Driver Risk Score Fusion (DRSF)** framework
+- 🏗️ Build hackathon and freelance projects with my team, **Axivorm**
 - 🚩 Active CTF competitor — OSINT & web exploitation
-- 🎯 Four-year goal: master cybersecurity, work abroad, and grow into a high-impact security role
+- 🎯 Four-year goal: master cybersecurity,and grow into a high-impact security role
 
 ---
 
@@ -103,9 +102,8 @@
 
 <p align="center">
   <!-- Replace # with your real links -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kaushikram-madhavan-50114a339/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="kaushikrammadhavan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⭐ from <a href="https://github.com/khost-07">khost-07</a> — always building, always learning.</i></p>
